@@ -1,2 +1,2 @@
 # ArthurOS
-A operating system made in batch.
+First version of ArthurOS.
