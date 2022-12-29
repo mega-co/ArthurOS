@@ -1,2 +1,2 @@
 # ArthurOS
-First version of ArthurOS.
+Primeira versão do ArthurOS.
