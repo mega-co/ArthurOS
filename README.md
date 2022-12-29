@@ -1,7 +1,7 @@
 # ArthurOS
-- Added login screen
-- Added ASCII UI
-- Added kernel.sys (kernel file)
-- Added kernel.sys load
-- Added other programs in the system
-- Added start menu
+- Adicionado Tela de login
+- Adicionado Interface ASCII
+- Adicionado kernel.sys (arquivo do kernel)
+- Adicionado carregamento do kernel.sys
+- Adicionado outros programas no sistema
+- Adicionado menu iniciar
