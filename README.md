@@ -1,2 +1,2 @@
 # ArthurOS
-- This version will be published soon.
+- Esta versão vai ser publicada ainda.
