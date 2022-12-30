@@ -1,0 +1,19 @@
+
+Se essa e a primeira vez que voce viu essa tela de parada,
+reinicie seu computador. Se essa tela aparecer novamente, siga
+esses passos:
+
+Veja para ter certeza se qualquer novo hardware ou software esta propriamente
+instalado.
+Se essa e uma nova instalacao, pergunte ao seu fabricante de hardware
+ou software para quais atualizacoes do ArthurOS voce precisa.
+
+Se os problemas continuar desabilite ou remova qualquer hardware ou software
+novo instalado. Desabilite opcoes da BIOS como caching ou shadowing.
+Se voce precisa usar o Modo de Recuperacao para consertar problems com ArthurOS,
+reinicie seu computador, no Gerenciador de inicializacao do ArthurOS, selecione
+Modo de Recuperacao do ArthurOS.
+
+Informacoes tecnicas:
+
+*** PARADA: 

@@ -1,0 +1,29 @@
+
+
+
+     NN  NN    NN  NN  NNNNNNN  NN   NNNNNNN  NNNNN
+     NN  NNNN  NN  NN  NN       NN   NN   NN  NN   NN
+     NN  NN NN NN  NN  NN       NN   NNNNNNN  NNNNNNN
+     NN  NN  NNNN  NN  NN       NN   NN   NN  NNNNNN
+     NN  NN   NNN  NN  NNNNNNN  NN   NN   NN  NN   NN
+
+
+      _________________________
+      |                       |
+      |          NN           |
+      |          NN           |
+      |      NN  NN  NN       |
+      |       NN    NN        |
+      |         NNNN          |
+      |_______________________|
+
+      (1)  Desligar
+
+      _____________________________________________________
+      | (2) Area de trabalho                              |
+      |___________________________________________________|
+
+
+
+
+
